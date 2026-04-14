@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=Jahongir+Jumaboyev;Future+Software+Engineer;Backend+%7C+Frontend+%7C+Cybersecurity;Night+Coder+;Building+Secure+Digital+Worlds+🔥" />
 </h1>
