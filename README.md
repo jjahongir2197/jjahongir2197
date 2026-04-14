@@ -1,5 +1,12 @@
 ## Hi there 👋
-<h1 align="center">👋 Hey, I'm Jahongir</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=Jahongir+Jumaboyev;Future+Software+Engineer;Backend+%7C+Frontend+%7C+Cybersecurity;Night+Coder+;Building+Secure+Digital+Worlds+🔥" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jjahongir2197&label=PROFILE+VIEWS&color=F472B6&style=for-the-badge"/>
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Developer;Creative+Mind;Problem+Solver;Future+Software+Engineer" />
